@@ -11,7 +11,7 @@ import com.amazon.challenge.statistics.model.Host;
  * Suppose that a Most filled host is that the ratio empty/busy = 0.01<br/>
  * or the ratio empty/busy < .75
  * 
- * @author durrah
+ *
  *
  */
 public interface MostFilledPolicy {

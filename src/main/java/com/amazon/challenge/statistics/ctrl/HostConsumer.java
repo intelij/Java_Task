@@ -16,7 +16,7 @@ import com.amazon.challenge.statistics.model.PoisonPill;
  * when the producer put a PoisonPill Message in the queue see
  * {@link PoisonPill}
  * 
- * @author durrah
+ *
  *
  */
 public class HostConsumer implements Runnable {

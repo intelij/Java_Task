@@ -4,7 +4,7 @@
 package com.amazon.challenge.statistics.model;
 
 /**
- * @author durrah
+ *
  *
  */
 public class HostParseException extends Exception {

@@ -9,7 +9,7 @@ import com.amazon.challenge.statistics.ctrl.MostFilledPolicy;
  * The Host Model, contains needed information to calculate the required
  * statistics.
  * 
- * @author durrah
+ *
  *
  */
 public class Host {

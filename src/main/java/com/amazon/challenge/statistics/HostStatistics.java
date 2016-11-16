@@ -26,7 +26,7 @@ import com.amazon.challenge.statistics.model.InstanceType;
 /**
  * Host process service
  * 
- * @author durrah
+ *
  *
  */
 public class HostStatistics {

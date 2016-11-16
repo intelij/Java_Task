@@ -7,7 +7,7 @@ import com.amazon.challenge.statistics.model.HostParseException;
  * make/create instances of Host class from a line that represent the status
  * (and information) of the host stored somewhere, strategy pattern
  * 
- * @author durrah
+ *
  *
  */
 public interface HostMaker {

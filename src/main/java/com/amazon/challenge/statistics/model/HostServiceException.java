@@ -3,7 +3,7 @@ package com.amazon.challenge.statistics.model;
 /**
  * Exception on the service level
  * 
- * @author durrah
+ *
  *
  */
 public class HostServiceException extends Exception {

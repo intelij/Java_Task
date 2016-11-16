@@ -3,7 +3,7 @@ package com.amazon.challenge.statistics.model;
 /**
  * The instance types of the
  * 
- * @author durrah
+ *
  *
  */
 public enum InstanceType {

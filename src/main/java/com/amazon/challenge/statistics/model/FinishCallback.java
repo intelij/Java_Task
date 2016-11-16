@@ -6,7 +6,7 @@ import java.util.EnumMap;
  * Using asynchronous processing, this callback is used to execute some business
  * logic after all data is written to data-strucutres
  * 
- * @author durrah
+ *
  *
  */
 public interface FinishCallback {

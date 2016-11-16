@@ -17,7 +17,7 @@ import com.amazon.challenge.statistics.model.PoisonPill;
  * separate the task of reading, creating, and putting hosts in the queue from
  * the task of consuming the hosts
  * 
- * @author durrah
+ *
  * @see HostConsumer
  *
  */

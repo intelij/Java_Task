@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * holds calculation related information
  * 
  * @ThreadSafe
- * @author durrah
+ *
  *
  */
 public class InstanceInfo {

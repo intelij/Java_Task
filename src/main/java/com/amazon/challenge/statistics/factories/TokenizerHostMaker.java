@@ -14,7 +14,7 @@ import com.amazon.challenge.statistics.model.InstanceType;
  * an implementation of {@link HostMaker} that uses String tokenizer to parse
  * and extract host data from it String representative line
  * 
- * @author durrah
+ *
  *
  */
 public class TokenizerHostMaker implements HostMaker {

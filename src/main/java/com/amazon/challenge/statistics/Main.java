@@ -3,7 +3,7 @@ package com.amazon.challenge.statistics;
 /**
  * start point
  * 
- * @author durrah
+ *
  *
  */
 public class Main {

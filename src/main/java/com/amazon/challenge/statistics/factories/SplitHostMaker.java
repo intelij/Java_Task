@@ -8,7 +8,7 @@ import com.amazon.challenge.statistics.model.InstanceType;
  * an implementation of {@link HostMaker} that uses the simple String split to
  * parse and extract host data from it String representative line
  * 
- * @author durrah
+ *
  *
  */
 public class SplitHostMaker implements HostMaker {
