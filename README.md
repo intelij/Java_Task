@@ -1,6 +1,6 @@
-# AWSChallenge
-amazon challenge for me
+# JavaChallenge
 ________________________________________________
+
 The task consists of calculating summary statistics for a fleet of hosts. Each host has a fixed number of slots in which virtual instances can run. Each host can only run instances of a particular type, e.g. M1, M2, or M3. You are provided with the file “FleetState.txt” that contains the state of the fleet. Each line in the file represents a single host in the following comma-separated format:
 
 \<HostID>,\<InstanceType>,\<N>,\<Slot1State>,\<Slot2State>,…,\<SlotNState>
